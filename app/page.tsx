@@ -280,9 +280,9 @@ export default function Home() {
           </div>
 
           <div className="flex justify-center gap-2 mb-8">
-            <button className="w-2 h-2 rounded-full bg-purple-700"></button>
-            <button className="w-2 h-2 rounded-full bg-gray-300"></button>
-            <button className="w-2 h-2 rounded-full bg-gray-300"></button>
+            <button title="Testimonial slide 1" className="w-2 h-2 rounded-full bg-purple-700"></button>
+            <button title="Testimonial slide 2" className="w-2 h-2 rounded-full bg-gray-300"></button>
+            <button title="Testimonial slide 3" className="w-2 h-2 rounded-full bg-gray-300"></button>
           </div>
         </div>
       </section>
